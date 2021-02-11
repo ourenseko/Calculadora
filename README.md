@@ -1,6 +1,6 @@
 # Calculadora
 
-//Usamos el motor de javascript
+//Usamos el motor de Javascript
 
 
         import javax.script.ScriptEngine;

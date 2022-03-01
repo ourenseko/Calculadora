@@ -2,7 +2,7 @@
 
 Preview:
 
-![Imagen del programa funcionando](https://raw.github.com/ourenseko/Calculadora/blob/main/Captura%20de%20pantalla%20-%20calculadora.jpg)
+![Imagen del programa funcionando](https://raw.githubusercontent.com/ourenseko/Calculadora/3640b6bef6d0a7cba42bd75a64e0b0b44ea9992d/Captura%20de%20pantalla%20-%20calculadora.jpg)
 
 
 Código:

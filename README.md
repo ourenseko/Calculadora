@@ -1,6 +1,13 @@
 # Calculadora
 
-//Usamos el motor de Javascript
+Preview:
+
+![Imagen del programa funcionando](https://raw.github.com/ourenseko/Calculadora/blob/main/Captura%20de%20pantalla%20-%20calculadora.jpg)
+
+
+Código:
+
+(Usamos el motor de Javascript)
 
 
         import javax.script.ScriptEngine;
